@@ -1,1 +1,17 @@
-This is documentation about beirutpoly
+# BeirutPoly: A Monopoly-Inspired Game for Beirut
+
+**BeirutPoly** is a creative twist on the classic Monopoly board game, designed to capture the vibrant spirit and charm of Beirut. This game allows players to explore and engage with iconic neighborhoods, landmarks, and businesses of the city, all while enjoying the familiar rules of Monopoly with a local twist.
+
+## Features
+- **Iconic Locations**: Buy, sell, and trade properties inspired by Beirut's famous districts, such as Hamra, Gemmayzeh, and Mar Mikhael.
+- **Cultural Elements**: Incorporates Lebanese traditions, cuisine, and lifestyle into the gameplay, making it a unique experience.
+- **Local Challenges**: Navigate through challenges like traffic jams, power outages, and more, adding a realistic touch to the game.
+- **Community Chest & Chance Cards**: Cards feature scenarios unique to Beirut, such as "Win a free man'ousheh!" or "Pay a fine for parking in a no-parking zone."
+
+## Gameplay
+- Suitable for **2 to 8 players**.
+- Recommended for ages **8 and above**.
+- Offers hours of fun, strategy, and laughter for family gatherings or game nights.
+
+## Why BeirutPoly?
+BeirutPoly is more than just a game—it's a celebration of Beirut's culture, resilience, and charm. Whether you're a local or someone who loves the city, this game offers a delightful way to connect with Beirut's essence.
